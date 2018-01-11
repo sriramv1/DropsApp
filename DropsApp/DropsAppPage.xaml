@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:DropsApp" x:Class="DropsApp.DropsAppPage">
+    <StackLayout x:Name="mainLayout" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Orientation="Vertical">
+
+        <Label Text="Welcome"
+                VerticalOptions="Center" 
+                   FontSize="Large"
+                   TextColor="DarkGray"
+                   Margin="0,25,0,0"
+                HorizontalOptions="CenterAndExpand" />
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Margin="0,25,0,5">
+            <Button x:Name="btnWebVideo" 
+                    Clicked="btnWebVideo_Clicked"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="Center"
+                    TextColor="Black"
+                    Margin="0,0,15,0"
+                    BorderColor="LightSkyBlue"
+                    BackgroundColor="LightSkyBlue"
+                    Text= " Web Video   "/>
+            <Button x:Name="btnLocalVideo" 
+                    Clicked="btnLocalVideo_Clicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    TextColor="Black"
+                    Margin="15,0,0,0"
+                    BorderColor="LightGreen"
+                    BackgroundColor="LightGreen"
+                    Text="  Local Video ">
+            </Button>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="Center">
+            <ProgressBar x:Name="mainProgressBar"
+                     Progress="0.1"
+                     VerticalOptions="Center"
+                     BackgroundColor="LightCyan" 
+                     Margin="5,0,5,0"
+                     WidthRequest="150" 
+                     HeightRequest="30"/>
+            <!--<Label x:Name="lblResult" FontSize="14" 
+               Text="{Binding Progress, Source={x:Reference mainProgressBar}}"
+               HorizontalOptions="Center" VerticalOptions="Fill"/>-->
+            <!--<Button x:Name="btnCrossMediaPlay" Text="TestPlay" Clicked="btnCrossMediaPlay_Clicked" />-->
+
+
+        </StackLayout>
+        
+
+    </StackLayout>
+</ContentPage>

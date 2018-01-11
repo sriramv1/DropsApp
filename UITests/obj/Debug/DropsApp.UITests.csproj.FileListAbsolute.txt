@@ -1,0 +1,36 @@
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\UITests\bin\Debug\DropsApp.UITests.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\UITests\bin\Debug\DropsApp.UITests.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\UITests\bin\Debug\nunit.framework.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\UITests\bin\Debug\nunit.framework.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\UITests\obj\Debug\DropsApp.UITests.csproj.CoreCompileInputs.cache
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\UITests\obj\Debug\DropsApp.UITests.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\UITests\obj\Debug\DropsApp.UITests.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\DropsApp.UITests.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\DropsApp.UITests.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\nunit.framework.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\Plugin.MediaManager.Abstractions.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\Plugin.MediaManager.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\Plugin.MediaManager.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\Plugin.MediaManager.Abstractions.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\nunit.framework.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\obj\Debug\DropsApp.UITests.csproj.CoreCompileInputs.cache
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\obj\Debug\DropsApp.UITests.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\UITests\obj\Debug\DropsApp.UITests.pdb
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\DropsApp.UITests.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\DropsApp.UITests.pdb
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\nunit.framework.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\Plugin.MediaManager.Abstractions.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\Plugin.MediaManager.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\Plugin.MediaManager.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\Plugin.MediaManager.Abstractions.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\nunit.framework.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\obj\Debug\DropsApp.UITests.csprojResolveAssemblyReference.cache
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\obj\Debug\DropsApp.UITests.csproj.CoreCompileInputs.cache
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\obj\Debug\DropsApp.UITests.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\UITests\obj\Debug\DropsApp.UITests.pdb

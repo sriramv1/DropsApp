@@ -1,0 +1,66 @@
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\DropsApp.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\DropsApp.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Octane.Xamarin.Forms.VideoPlayer.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Octane.Xamarin.Forms.VideoPlayer.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\obj\Debug\DropsApp.csproj.CoreCompileInputs.cache
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\obj\Debug\DropsApp.App.xaml.g.cs
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\obj\Debug\DropsApp.DropsAppPage.xaml.g.cs
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\obj\Debug\DropsApp.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\obj\Debug\DropsApp.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Mono.Android.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Mono.Android.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp\DropsApp\bin\Debug\Mono.Android.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\DropsApp.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\DropsApp.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Mono.Android.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Octane.Xamarin.Forms.VideoPlayer.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Plugin.MediaManager.Abstractions.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Plugin.MediaManager.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Mono.Android.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Mono.Android.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Octane.Xamarin.Forms.VideoPlayer.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Plugin.MediaManager.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Plugin.MediaManager.Abstractions.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.csproj.CoreCompileInputs.cache
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.App.xaml.g.cs
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.DropsAppPage.xaml.g.cs
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.dll
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.pdb
+C:\Users\voonn\Documents\Visual Studio 2017\Projects\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.csprojResolveAssemblyReference.cache
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\DropsApp.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\DropsApp.pdb
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Mono.Android.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Octane.Xamarin.Forms.VideoPlayer.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Plugin.MediaManager.Abstractions.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Plugin.MediaManager.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Mono.Android.pdb
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Mono.Android.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Octane.Xamarin.Forms.VideoPlayer.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Plugin.MediaManager.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Plugin.MediaManager.Abstractions.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.csproj.CoreCompileInputs.cache
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.App.xaml.g.cs
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.DropsAppPage.xaml.g.cs
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.dll
+C:\Users\voonn\Documents\GitHub\DropsApp_Try2\DropsApp\obj\Debug\DropsApp.pdb
